@@ -10,6 +10,7 @@ contraseña generada por 000webhost: !yXXRIa$8bt!%fTXdrGo
 
 db de 000webhost:
 
-nombre db: id8722186_seanixgxsilvestre_db
+nombre db: id8722186_tema_1
 usuario: id8722186_seanix
 contraseña: 921990silvestre
+host db: localhost
