@@ -25,20 +25,7 @@
         <!-- fin articulo -->
         <!-- aside -->
         <div class="col-12 col-md-3">
-          <div class="my-3">
-            <h3>lorem ipsum</h3>
-            <img src="images/articulo1.png" alt="" class="img-fluid">
-          </div>
-
-          <div class="my-3">
-            <h3>lorem ipsum</h3>
-            <img src="images/articulo1.png" alt="" class="img-fluid">
-          </div>
-
-          <div class="my-3">
-            <h3>lorem ipsum</h3>
-            <img src="images/articulo1.png" alt="" class="img-fluid">
-          </div> 
+         <?php get_sidebar(); ?>
         </div>
         <!-- fin aside -->
       </div>
