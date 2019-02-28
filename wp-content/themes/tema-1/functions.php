@@ -13,4 +13,9 @@ if (function_exists('register_nav_menus')) {
 		$atts['class'] = $class;
 		return $atts;
 	}
+//funcion para thumbnails agregar imagenes destacadas
+if ( function_exists( 'add_theme_support' ) ) {
+    add_theme_support( 'post-thumbnails' );
+    
+ }	
  ?>
