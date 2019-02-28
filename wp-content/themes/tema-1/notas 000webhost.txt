@@ -1,0 +1,15 @@
+contraseña de 000webhost:
+correo: seanixgx@gmail.com
+contraseña: 921990000webhost
+
+host: https://seanixgxsilvestre.000webhostapp.com/
+
+SERVIDOR:
+nombre de sitio: seanixgxsilvestre
+contraseña generada por 000webhost: !yXXRIa$8bt!%fTXdrGo
+
+db de 000webhost:
+
+nombre db: id8722186_seanixgxsilvestre_db
+usuario: id8722186_seanix
+contraseña: 921990silvestre

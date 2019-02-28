@@ -1,0 +1,54 @@
+/*
+Theme Name: TEMA 1
+Author: SEANIX
+Author URI: https://wordpress.org/
+Description: Tema nuevo de mi creacion para Wordpress.
+Version: 1.0
+Tags: Black Simple, New.
+*/
+
+/*.nav-item a{
+	position: relative;
+	display: inline-block;
+	color: #FFFFFF;
+	list-style: none;
+}*/
+
+
+.suscribir{
+	background: url(images/bg-1.png);
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+/*btn*/
+.btn{
+	background-color: #2C3C70;
+	
+	color: white;
+	border-radius: 9px;
+	transition: 0.3s;
+}
+.btn:hover{
+	transform: scale(1.2);
+	background-color: #0601D1;
+	color: white;
+	font-weight: bold;
+}
+/*card*/
+.card{
+	border: 1px solid #222564;
+	border-radius: 5px;
+}
+.card-body{
+	background-color: #27427E;
+	color: white;
+}
+.card-footer{
+	color: #04C3EB;
+}
+.card-title{
+	text-transform: uppercase;
+	font-weight: bold;
+	font: 20px "Comic Sans MS";
+}
